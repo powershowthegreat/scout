@@ -1,0 +1,4 @@
+!VXR CONFIG CC2
+!> ./ccconfig2.json
+!? config = VXR_DEFAULT_FULLSTACK
+!? install config
